@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-sketchplugin",
+  "version": "1.0.0",
+  "description": "eslint rules for sketch plugin codes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwsun/eslint-config-sketchplugin.git"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "keywords": [
+    "eslint",
+    "sketch"
+  ],
+  "author": "ww.sun@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwsun/eslint-config-sketchplugin/issues"
+  },
+  "homepage": "https://github.com/wwsun/eslint-config-sketchplugin#readme"
+}
