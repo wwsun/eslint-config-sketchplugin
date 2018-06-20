@@ -1,7 +1,7 @@
 module.exports = {
   extends: "airbnb-base",
   rules: {
-    "no-eqeqeq": "off",
+    "eqeqeq": "off",
     "no-continue": "off",
     "no-plusplus": "off",
     "no-useless-escape": "off",
