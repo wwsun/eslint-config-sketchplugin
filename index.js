@@ -8,9 +8,11 @@ module.exports = {
     "no-nested-ternary": "off",
     "no-cond-assign": "off",
     "no-param-reassign": "off",
+    "no-restricted-syntax": "off",
     "max-len": "off",
     "object-curly-newline": "off",
     "prefer-template": "off",
+    "guard-for-in": "off",
     "class-methods-use-this": "off",
     "no-underscore-dangle": "off",
     "prefer-destructuring": "off"
